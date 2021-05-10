@@ -10,7 +10,7 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.6.1",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "native-base": "^2.13.8",
     "react": "16.8.6",
     "react-native": "0.60.5",
